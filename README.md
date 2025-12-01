@@ -2,7 +2,7 @@
 - 👀 I’m interested in catssss 
 - 🌱 I’m currently learning MySQL, power BI, Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me tracylan12@qq.com
+- 📫 How to reach me tracylan12@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
