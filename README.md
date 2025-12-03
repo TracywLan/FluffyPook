@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FluffyPook
+- 👋 Hi, I’m @Tracywlan
 - 👀 I’m interested in catssss 
 - 🌱 I’m currently learning MySQL, power BI, Python
 - 💞️ I’m looking to collaborate on ...
